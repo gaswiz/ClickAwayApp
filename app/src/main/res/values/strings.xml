@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClickAwayApp</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_pickup">PickupActivity</string>
+    <string name="title_activity_cart_view_model">CartViewModel</string>
+    <string name="title_activity_cart_view_model_factory">CartViewModelFactory</string>
+    <string name="title_activity_cart_item">CartItem</string>
+</resources>
